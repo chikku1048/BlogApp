@@ -1,0 +1,25 @@
+body{
+  margin: 0px;
+}
+.MuiToolbar-root{
+  display: flex;
+  gap: 20px;
+}
+#root{
+  text-align: center;
+}
+
+#root{
+  background-color:#fce4ec;
+}
+
+.Home{
+  margin: 40px;
+}
+.MuiTableRow-root{
+  border: black;
+}
+
+.MuiTable-root{
+  margin: 30px;
+}
